@@ -52,7 +52,9 @@ El proyecto cuenta con funcionalidades de procesamiento espacial, análisis temp
 **Fabio Rubiano Sánchez**
 
 Ingeniero Civil | Magíster en Recursos Hidráulicos y Medio Ambiente | Especialista en Análisis Espacial | Doctorando en Geografía
-
+frubianos@unal.edu.co
+Grupo de Investigación Tiempo Clima y Sociedad 
+http://www.hermes.unal.edu.co/pages/Consultas/Grupo.xhtml?idGrupo=894&opcion=1
 Universidad Nacional de Colombia
 
 ## 📄 Licencia
