@@ -37,9 +37,7 @@ Waterloggin busca proporcionar una metodología reproducible y adaptable a difer
 
 ## 🌎 Aplicabilidad
 
-Waterloggin se desarrolla con el propósito de facilitar el análisis espacial de encharcamientos en distintas ciudades.
-
-Su implementación inicial utiliza información georreferenciada de eventos registrados en Bogotá, Colombia. La generalización de los parámetros y datos de entrada para otras ciudades forma parte del desarrollo del proyecto.
+Waterloggin ha sido desarrollado con un enfoque flexible y reproducible, orientado a su aplicación en diferentes contextos urbanos. Su estructura permite integrar información georreferenciada de eventos de encharcamiento y adaptar los parámetros de análisis según las características y necesidades de cada área de estudio. El proyecto se encuentra en constante evolución para fortalecer su aplicabilidad y facilitar su implementación en distintas ciudades.
 
 ## 📊 Estado del proyecto
 
