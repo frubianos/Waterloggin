@@ -59,6 +59,6 @@ Universidad Nacional de Colombia
 
 Este proyecto se distribuye bajo la licencia **GNU General Public License v3.0 (GPL-3.0)**.
 
-Se invita a investigadores, profesionales y desarrolladores a contribuir a su evolución, proponer mejoras metodológicas y reportar posibles errores.
+Se invita a investigador@s, profesionales y desarrollador@s a contribuir a su evolución, proponer mejoras metodológicas y reportar posibles errores.
 
 **Waterloggin — Spatial analysis for better urban water management.**
